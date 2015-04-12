@@ -1,9 +1,0 @@
->> Educationalinformationsystemsillinoiscloud 
->> school_member_1
-schoolmember_list = ["uic", "uis", "uiuc"]
->> schoolmember_list = ["uic", "uis", "uiuc"]
->> for item in schoolmember_list
->> next if item.length.odd?
->> puts item
->>end
-
